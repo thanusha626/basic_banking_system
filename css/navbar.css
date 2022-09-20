@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+.nav-link{
+	margin-right: 15px;
+	color:#050706;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+	color: #e8eb4e;
+	letter-spacing: 0.5px;
+}
+h2{
+	color: #0c0a0c;
+	letter-spacing: 0.5px;
+	font-family: raleway;
+}
